@@ -13,6 +13,10 @@
   This repository holds the back-end code for wallstreetlocal, for the front-end, see <a href="https://github.com/leftmove/walltreetlocal" target="_blank" >here</a>.
 </p>
 
+<h2 align="center">
+  This repository is deprecated. The code was merged into wallstreetlocal's <a src="https://github.com/leftmove/wallstreetlocal">main repository</a>.
+</h2>
+
 ### Getting Started
 
 This project uses Docker, to deploy, run the following command.
